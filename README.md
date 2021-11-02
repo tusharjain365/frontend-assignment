@@ -4,7 +4,7 @@ As part of our application process, we'd like to see what you can produce by giv
 
 ## The assignment
 
-We would like you to create an invoicing app. The features it should include:
+We would like you to create an invoicing app. The features it should include this:
 
 - [ ] Create a new invoice
 - [ ] Add line items to the invoice. Line items may include hours of work at a certain rate, work-related expenses, materials, labor, etc.
