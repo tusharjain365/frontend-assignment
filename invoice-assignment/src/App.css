@@ -1,0 +1,36 @@
+*{
+  margin:0;
+  padding:0;
+  animation :faid 1s ease;
+}
+button {
+  outline:none;
+  background:transparent;
+  cursor:pointer;
+  border:none;
+  padding:.75rem .25rem;
+  border-radius:8px;
+  font-weight:bold;
+  color:black;
+  transition:all .25s ease-in-out;
+  font-size: 16px;
+}
+button:hover {
+    color:white;
+    background:rgb(42, 194, 118);
+}
+.space {
+  min-height: calc(100vh - 10rem);
+}
+a {
+  text-decoration: none;
+  justify-content: space-between;
+}
+@keyframes faid {
+  from {
+    opacity:0;
+  }
+  to {
+    opacity: 1;
+  }
+}
